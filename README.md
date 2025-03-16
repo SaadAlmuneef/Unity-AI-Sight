@@ -12,5 +12,5 @@ an AI sight component for detecting gameobjects with other features
  
 ## Usage
 - Attach `AISightSenseComponent` to any AI character.
-- Assign a `AISightConfig` ScriptableObject to configure:
+- Assign a `AISightConfig` ScriptableObject to configure
 - Subscribe to `OnTargetSeen` and `OnTargetLost` events to trigger AI behavior.
